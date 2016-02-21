@@ -1,0 +1,18 @@
+{
+	"friendLocations": {
+		"data": {
+			"friend": [{
+				"friendName": "Frank",
+				"friendType": "Best",
+				"lat": "77.4667",
+				"lon": "37.5333"
+			},
+			{
+				"friendName": "Billy",
+				"friendType": "Crummy",
+				"lat": "79.4647",
+				"lon": "33.5323"
+			}]
+		}
+	}
+}
